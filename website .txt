@@ -1,0 +1,102 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Siddhant Mujalgekar</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #111;
+      color: #eee;
+    }
+
+    header {
+      background-color: #222;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    header p {
+      margin-top: 0.5rem;
+      color: #aaa;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    .section {
+      margin-bottom: 2rem;
+    }
+
+    h2 {
+      border-bottom: 2px solid #444;
+      padding-bottom: 0.5rem;
+      color: #ddd;
+    }
+
+    .links a {
+      display: inline-block;
+      margin-right: 1rem;
+      color: #0af;
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .links a:hover {
+      color: #08f;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      color: #666;
+      background-color: #1a1a1a;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Siddhant Mujalgekar</h1>
+    <p>I love PHYSICS </p>
+  </header>
+
+  <main>
+    <section class="section">
+      <h2>About Me</h2>
+      <p>Hello! I'm a curious individual who loves building things and solving problems. I enjoy exploring new ideas and creating meaningful projects.</p>
+    </section>
+
+    <section class="section">
+      <h2>learn physics like a pro imp topics for JEE</h2>
+      <ul>
+        <li>Magnetism,optics, current electricity,MP,RBD, Thermodynamics</li>
+        <li>Follow Coaching Material </li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Connect with Me</h2>
+      <div class="links">
+        <a href="https://sites.google.com/view/siddhantmujalgekar/home" target="_blank">Resources web</a>
+        <a href="https://linkedin.com/in/yourusername" target="_blank">coming soon</a>
+        <a href="siddhantmujalgekar601@gmail.com">Email</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Your Name. All rights reserved.
+  </footer>
+</body>
+</html>
